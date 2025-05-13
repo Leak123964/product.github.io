@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.form {
+    height: 100vh;
+}
+
+.menu {
+    width: 15%;
+}
+
+.menu a {
+    color: white;
+}
+
+.menu a:hover {
+    color: cyan;
+}
+
+.page_active {
+    width: 85%;
+}
+
